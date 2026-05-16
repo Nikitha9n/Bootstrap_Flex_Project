@@ -3,13 +3,17 @@
 ## Live Demo
 https://bootstrapflexproject.netlify.app/
 
-## Description
-Developed a responsive pricing section using Bootstrap 5 with card components and flexible layouts. The project adapts to different screen sizes and provides a clean, mobile-friendly user interface.
 
 ## Technologies Used
 - HTML5
 - Bootstrap 5
 - CSS
+
+## Bootstrap Flexbox – Used Flexbox properties:
+flex-wrap
+flex-grow
+Responsive adjustments for different screen sizes
+
 
 ## Features
 - Responsive design
